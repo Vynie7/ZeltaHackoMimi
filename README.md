@@ -31,6 +31,8 @@ $ git submodule update --init --recursive
 
 ```kotlin
 implementation project(":ZeltaHackoMimi") // if modularized
+// OR
+implementation(project(":ZeltaHackoMimi"))
 ```
 
 ---
