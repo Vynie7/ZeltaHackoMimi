@@ -27,7 +27,17 @@ $ git submodule add https://github.com/vinoie/ZeltaHackoMimi ZeltaHackoMimi
 $ git submodule update --init --recursive
 ```
 
-2. **Add the class to your project**
+2. **Add the library to your project**
+
+You must add this (in your `settings.gradle` or `settings.gradle.kts`):
+
+```gradle
+//...
+
+include(":zelta")
+```
+
+In your main application in your `build.gradle` or `build.gradle.kts`, you must add:
 
 ```kotlin
 implementation project(":ZeltaHackoMimi") // if modularized
