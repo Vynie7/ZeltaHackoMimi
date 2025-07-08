@@ -34,7 +34,7 @@ You must add this (in your `settings.gradle` or `settings.gradle.kts`):
 ```gradle
 //...
 
-include(":zelta")
+include(":ZeltaHackoMimi")
 ```
 
 In your main application in your `build.gradle` or `build.gradle.kts`, you must add:
