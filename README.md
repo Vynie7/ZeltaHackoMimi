@@ -23,7 +23,7 @@
 If you're using Git, it's recommended to add this library as a submodule from your project root directory:
 
 ```bash
-$ git submodule add https://github.com/vinoie/ZeltaHackoMimi ZeltaHackoMimi
+$ git submodule add https://github.com/vynie/ZeltaHackoMimi ZeltaHackoMimi
 $ git submodule update --init --recursive
 ```
 
