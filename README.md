@@ -2,7 +2,7 @@
 
 **Zelta - HackoMimi** is a lightweight Android security library designed to protect your applications from tampering, reverse engineering, and running on rooted devices.
 
-> Developed by **Shoukaku07** & **Vinoie07**
+> Developed by **Shoukaku0x7** & **Vynie7**
 
 ---
 
